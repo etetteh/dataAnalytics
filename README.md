@@ -1,6 +1,9 @@
 # dataAnalytics
 BI Dashboards and Reports
 
+[](https://datastudio.google.com/reporting/03376bef-7812-4d98-be89-7d1471cbedce)
+![](https://github.com/etetteh/dataAnalytics/blob/main/G7dashboard.JPG?raw=true)
+
 [COVID-19](https://datastudio.google.com/reporting/8b1f3184-cafb-476a-9f5f-aff357881c6e)
 ![](https://github.com/etetteh/dataAnalytics/blob/main/COVID_2022-05-08%20at%2019.40.00.JPG?raw=true)
 
